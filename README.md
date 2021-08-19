@@ -6,6 +6,6 @@ Password-Generator
 
 made by sina
 
-programming languages for this mini game
+programming languages for this mini app
 
 *python
