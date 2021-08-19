@@ -2,7 +2,7 @@
 
 mini app
 
-Password-Generato
+Password-Generator
 
 made by sina
 
