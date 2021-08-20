@@ -29,8 +29,6 @@ def new_rand():
 def clipper():
     root.clipboard_clear()
     root.clipboard_append(pw_entry.get())
-
-
 ######################################################################
 # label frame
 lf = LabelFrame(root,text="how many characters")
