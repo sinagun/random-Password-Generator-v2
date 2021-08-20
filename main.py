@@ -55,14 +55,6 @@ clip_button = Button(my_frame,text="copy to clipboad",command=clipper)
 clip_button.grid(row=0,column=1,padx=10)
 
 
-
-
-
-
-
-
-
-
 root.mainloop()
 
 
