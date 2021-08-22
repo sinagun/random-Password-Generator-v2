@@ -55,7 +55,6 @@ clip_button.grid(row=0,column=1,padx=10)
 
 
 
-
 root.mainloop()
 
 
